@@ -274,6 +274,8 @@ planning-with-files/
 │   └── skills/
 ├── .kilocode/               # Kilo Code skills
 │   └── skills/
+├── .openclaw/               # OpenClaw skills
+│   └── skills/
 ├── .adal/                   # AdaL CLI / Sylph AI skills
 │   └── skills/
 ├── .pi/                     # Pi Agent skills
