@@ -59,6 +59,30 @@ When your context fills up and you run `/clear`, this skill **automatically reco
 
 </details>
 
+<details>
+<summary><strong>🛠️ Supported IDEs (14 Platforms)</strong></summary>
+
+| IDE | Status | Installation Guide | Format |
+|-----|--------|-------------------|--------|
+| Claude Code | ✅ Full Support | [Installation](docs/installation.md) | Plugin + SKILL.md |
+| Gemini CLI | ✅ Full Support | [Gemini Setup](docs/gemini.md) | Agent Skills |
+| OpenClaw | ✅ Full Support | [OpenClaw Setup](docs/openclaw.md) | Workspace/Local Skills |
+| Kiro | ✅ Full Support | [Kiro Setup](docs/kiro.md) | Steering Files |
+| Cursor | ✅ Full Support | [Cursor Setup](docs/cursor.md) | Skills + Hooks |
+| Continue | ✅ Full Support | [Continue Setup](docs/continue.md) | Skills + Prompt files |
+| Kilocode | ✅ Full Support | [Kilocode Setup](docs/kilocode.md) | Skills |
+| OpenCode | ✅ Full Support | [OpenCode Setup](docs/opencode.md) | Personal/Project Skill |
+| Codex | ✅ Full Support | [Codex Setup](docs/codex.md) | Personal Skill |
+| FactoryAI Droid | ✅ Full Support | [Factory Setup](docs/factory.md) | Workspace/Personal Skill |
+| Antigravity | ✅ Full Support | [Antigravity Setup](docs/antigravity.md) | Workspace/Personal Skill |
+| CodeBuddy | ✅ Full Support | [CodeBuddy Setup](docs/codebuddy.md) | Workspace/Personal Skill |
+| AdaL CLI (Sylph AI) | ✅ Full Support | [AdaL Setup](docs/adal.md) | Personal/Project Skills |
+| Pi Agent | ✅ Full Support | [Pi Agent Setup](docs/pi-agent.md) | Agent Skills |
+
+> **Note:** If your IDE uses the legacy Rules system instead of Skills, see the [`legacy-rules-support`](https://github.com/OthmanAdi/planning-with-files/tree/legacy-rules-support) branch.
+
+</details>
+
 ---
 
 A Claude Code plugin that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
@@ -250,30 +274,6 @@ planning-with-files/
 ├── LICENSE
 └── README.md
 ```
-
-<details>
-<summary><strong>🛠️ Supported IDEs (14 Platforms)</strong></summary>
-
-| IDE | Status | Installation Guide | Format |
-|-----|--------|-------------------|--------|
-| Claude Code | ✅ Full Support | [Installation](docs/installation.md) | Plugin + SKILL.md |
-| Gemini CLI | ✅ Full Support | [Gemini Setup](docs/gemini.md) | Agent Skills |
-| OpenClaw | ✅ Full Support | [OpenClaw Setup](docs/openclaw.md) | Workspace/Local Skills |
-| Kiro | ✅ Full Support | [Kiro Setup](docs/kiro.md) | Steering Files |
-| Cursor | ✅ Full Support | [Cursor Setup](docs/cursor.md) | Skills + Hooks |
-| Continue | ✅ Full Support | [Continue Setup](docs/continue.md) | Skills + Prompt files |
-| Kilocode | ✅ Full Support | [Kilocode Setup](docs/kilocode.md) | Skills |
-| OpenCode | ✅ Full Support | [OpenCode Setup](docs/opencode.md) | Personal/Project Skill |
-| Codex | ✅ Full Support | [Codex Setup](docs/codex.md) | Personal Skill |
-| FactoryAI Droid | ✅ Full Support | [Factory Setup](docs/factory.md) | Workspace/Personal Skill |
-| Antigravity | ✅ Full Support | [Antigravity Setup](docs/antigravity.md) | Workspace/Personal Skill |
-| CodeBuddy | ✅ Full Support | [CodeBuddy Setup](docs/codebuddy.md) | Workspace/Personal Skill |
-| AdaL CLI (Sylph AI) | ✅ Full Support | [AdaL Setup](docs/adal.md) | Personal/Project Skills |
-| Pi Agent | ✅ Full Support | [Pi Agent Setup](docs/pi-agent.md) | Agent Skills |
-
-> **Note:** If your IDE uses the legacy Rules system instead of Skills, see the [`legacy-rules-support`](https://github.com/OthmanAdi/planning-with-files/tree/legacy-rules-support) branch.
-
-</details>
 
 ## Documentation
 
